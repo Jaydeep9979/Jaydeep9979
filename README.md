@@ -25,8 +25,8 @@ Hi, I'm Jaydeep 😉, a Self-motivated programmer 👨🏻‍💻 from India. Cu
 
 **Current Status Quo**
 
-- 🌱 I’m currently learning JAVA and Python .
-- 🤔 I'm having Conceptual understanding and Experience with Data Structure & Algorithms and Problem Solving & analytical thinking .
+- 🌱 I’m currently learning JAVA and Python(Expert).
+- 🤔 I'm having Conceptual understanding and Experience with Data Structure & Algorithms and Problem Solving & analytical skills .
 - 💼 I’m pursuing a B.Tech.degree.
 - 💬 Ask me about anything, I would like to answer.
 - 📫 Please email via jaydeep9979@gmail.com to reach me.
