@@ -30,7 +30,7 @@ Hi, I'm Jaydeep 😉, a Self-motivated programmer 👨🏻‍💻 from India. Cu
 - 💼 I’m pursuing a B.Tech.degree.
 - 💬 Ask me about anything, I would like to answer.
 - 📫 Please email via jaydeep9979@gmail.com to reach me.
-- 👀 See my [Curriculum Vitae](https://drive.google.com/file/d/1g1v1LqFATXxQMoUf_jIHdRCojQJ8Nvzk/view?usp=sharing) to get more info.
+- 👀 See my [Resume](https://drive.google.com/file/d/1g1v1LqFATXxQMoUf_jIHdRCojQJ8Nvzk/view?usp=sharing) to get more info.
 
-![LovelyBuggies's github stats](https://github-readme-stats.vercel.app/api?username=lovelybuggies&show_icons=true&hide_border=true)
+![LovelyBuggies's github stats](https://github-readme-stats.vercel.app/api?username=jaydeep9979&show_icons=true&hide_border=true)
 
