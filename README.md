@@ -13,7 +13,7 @@
 <a href="https://www.hackerrank.com/Jaydeep9979?hr_r=1">
   <img align="left" alt="Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/hackerrank.svg" />
 </a>
-<a href="Jaydeep#0749">
+<a href="">
   <img align="left" alt="Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/discord.svg" />
 </a>
 <br />
