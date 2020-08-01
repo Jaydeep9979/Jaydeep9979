@@ -29,7 +29,7 @@ Hi, I'm Jaydeep 😉, a Self-motivated programmer 👨🏻‍💻 from India. Cu
 - 🌱 I’m currently learning JAVA and **Python(Expert)**.
 - 🤔 I'm having Robust Conceptual understanding and Experience with Data Structure & Algorithms with python and Object Oriented Programming with JAVA.
 - 🔭 Good Problem solving and analytical Skills.
-- 💼 I’m pursuing a B.Tech.degree.
+- 💼 I’m pursuing a B.Tech Degree.
 - 💬 Ask me about anything, I would like to answer.
 - 📫 Please email via jaydeep9979@gmail.com to reach me.
 - 👀 See my [Resume](https://drive.google.com/file/d/1g1v1LqFATXxQMoUf_jIHdRCojQJ8Nvzk/view?usp=sharing) to get more info.
