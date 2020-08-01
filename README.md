@@ -20,8 +20,11 @@
 <br />
 
 Hi, I'm Jaydeep 😉, a Self-motivated programmer 👨🏻‍💻 from India. Currently, I'm working on Data Structure and Algorithms With Python. Beside's programming, I like Calisthenics and doing Sports like Carrom 🏃⛹️‍♂️🏋🏼‍♂️.
+
+
+![LovelyBuggies's github stats](https://github-readme-stats.vercel.app/api?username=jaydeep9979&show_icons=true&hide_border=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&align=center)
  
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" />
+ 
 
 
 **Current Status Quo**
@@ -36,5 +39,5 @@ Hi, I'm Jaydeep 😉, a Self-motivated programmer 👨🏻‍💻 from India. Cu
 </br>
 </br>
 
-![LovelyBuggies's github stats](https://github-readme-stats.vercel.app/api?username=jaydeep9979&show_icons=true&hide_border=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&align=center)
+ <img align="center" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" />
 
