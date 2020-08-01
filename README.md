@@ -22,7 +22,7 @@
 Hi, I'm Jaydeep 😉, a Self-motivated programmer 👨🏻‍💻 from India. Currently, I'm working on Data Structure and Algorithms With Python. Beside's programming, I like Calisthenics and doing Sports like Carrom 🏃⛹️‍♂️🏋🏼‍♂️.
 
 
-<img align="center" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" />
+<img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" />
  
  
 
