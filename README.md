@@ -23,7 +23,7 @@ Hi, I'm Jaydeep 😉, a Self-motivated programmer 👨🏻‍💻 from India. Cu
 <br />
 <br />
 
-  <img align="right" alt="GIF" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+ 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" />
  <br />
 <br />
