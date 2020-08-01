@@ -4,7 +4,7 @@
 <a href="https://www.linkedin.com/in/jaydeep9979/">
   <img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/linkedin.svg" />
 </a>
-<a href="jaydeep9979@gmail.com">
+<a href="mailto:jaydeep9979@email.com">
   <img align="left" alt="'Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/gmail.svg" />
 </a>
 <a href="https://leetcode.com/jaydeep9979/">
