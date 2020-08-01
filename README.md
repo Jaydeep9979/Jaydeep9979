@@ -20,11 +20,16 @@
 <br />
 
 Hi, I'm Jaydeep 😉, a Self-motivated programmer 👨🏻‍💻 from India. Currently, I'm working on Data Structure and Algorithms With Python. Beside's programming, I like Calisthenics and doing Sports like Carrom 🏃⛹️‍♂️🏋🏼‍♂️.
+<br />
+<br />
 
   <img align="right" alt="GIF" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+ <br />
+<br />
 
 **Current Status Quo**
-
+ <br />
+<br />
 - 🌱 I’m currently learning JAVA and Python(Expert).
 - 🤔 I'm having Conceptual understanding and Experience with Data Structure & Algorithms and Problem Solving & analytical skills .
 - 💼 I’m pursuing a B.Tech.degree.
