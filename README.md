@@ -19,7 +19,8 @@
 <br />
 <br />
 
-Hi, I'm Jaydeep 😉, Avid Coder 👨🏻‍💻 from India. Currently, I'm working on Data Structure and Algorithms With Python. Beside's programming, I like Calisthenics and doing Sports like Carrom 🏃⛹️‍♂️🏋🏼‍♂️.
+Hi, I'm Jaydeep 😉, Avid Coder 👨🏻‍💻 from India. Currently, I'm working on Data Structure and Algorithms With Python. Beside's programming, I like Calisthenics and doing Sports like Carrom 🏃⛹️‍♂️🏋🏼‍♂️ Apart from Tech, I highly believe on Spirituality, Ethics,
+Building Happy Relationships, Fitness. and the most important The Peace and Smile I want to create on this planet before i die :)
 
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" />
