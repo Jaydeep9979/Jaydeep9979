@@ -43,7 +43,7 @@ Hi, I'm Jaydeep 😉, Avid Coder 👨🏻‍💻 from India. Currently, I'm work
 - 💼 I’m Currently working as SDE at Crest Data Systems Pvt. Ltd.
 - 💬 Ask me about anything, I would like to answer.
 - 📫 Please email via jaydeep9979@gmail.com to reach me.
-- 👀 See my [Resume](https://drive.google.com/file/d/1g1v1LqFATXxQMoUf_jIHdRCojQJ8Nvzk/view?usp=sharing) to get more info.
+- 👀 See my [Resume](https://drive.google.com/file/d/1zITkVcY3Zt_4qM6PZ_daqzgZYEPeQGGO/view?usp=sharing) to get more info.
 </br>
 </br>
 
