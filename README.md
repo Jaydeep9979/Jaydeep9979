@@ -19,8 +19,8 @@
 <br />
 <br />
 
-Hi, I'm Jaydeep 😉, Avid Coder 👨🏻‍💻 from India. Currently, I'm working as SDE intern at Crest Data Systems. learning Data Structure and Algorithms With Python. Beside's programming, I like Calisthenics and doing Sports like Carrom 🏃⛹️‍♂️🏋🏼‍♂️, I highly believe on **Spirituality, Ethics,
-Building Happy Relationships, Fitness and the most importantly The Peace and Smile i want to create on this planet before i die :)**
+Hi, I'm Jaydeep 😉, Avid Coder 👨🏻‍💻 from India. Currently, I'm working as SDE  at Crest Data Systems. I have more than 8 months of full time experience of working with ReactJS, Python, FAST API. 
+
 
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" />
@@ -31,9 +31,9 @@ Building Happy Relationships, Fitness and the most importantly The Peace and Smi
   **Current Status Quo**
  <br />
 - 🌱 I’m currently learning JAVA and **Python(Expert)**.
-- 🤔 I'm having Robust Conceptual understanding and Experience with Data Structure & Algorithms with python and Object Oriented Programming with JAVA.
+- 🤔 I'm having Robust Conceptual understanding and Experience with Data Structure & Algorithms with JAVA and Object Oriented Programming with JAVA.
 - 🔭 Good Problem solving and analytical Skills.
-- 💼 I’m pursuing a B.Tech Degree.
+- 💼 I’m Currently working as SDE at Crest Data Systems Pvt. Ltd.
 - 💬 Ask me about anything, I would like to answer.
 - 📫 Please email via jaydeep9979@gmail.com to reach me.
 - 👀 See my [Resume](https://drive.google.com/file/d/1g1v1LqFATXxQMoUf_jIHdRCojQJ8Nvzk/view?usp=sharing) to get more info.
