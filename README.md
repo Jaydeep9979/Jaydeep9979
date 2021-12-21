@@ -20,6 +20,8 @@
 <br />
 
 Hi, I'm Jaydeep 😉, Avid Coder 👨🏻‍💻 from India. Currently, I'm working as SDE  at Crest Data Systems. I have more than 8 months of full time experience of working with ReactJS, Python, FAST API. 
+![image](https://user-images.githubusercontent.com/53243528/146906818-117bef1a-d054-4d9c-88ea-703ab5c142ad.png)
+
 
 
 
@@ -30,7 +32,7 @@ Hi, I'm Jaydeep 😉, Avid Coder 👨🏻‍💻 from India. Currently, I'm work
 
   **Current Status Quo**
  <br />
-- 🌱 I’m currently learning JAVA and **Python(Expert)**.
+- 🌱 I’m currently learning Backend Development at High scale.
 - 🤔 I'm having Robust Conceptual understanding and Experience with Data Structure & Algorithms with JAVA and Object Oriented Programming with JAVA.
 - 🔭 Good Problem solving and analytical Skills.
 - 💼 I’m Currently working as SDE at Crest Data Systems Pvt. Ltd.
