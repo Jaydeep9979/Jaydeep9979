@@ -21,13 +21,15 @@
 
 Hi, I'm Jaydeep 😉, Avid Coder 👨🏻‍💻 from India. Currently, I'm working as SDE  at Crest Data Systems. I have more than 8 months of full time experience of working with ReactJS, Python, FAST API. 
 <br>
+<br />
+<br />
 ![image](https://user-images.githubusercontent.com/53243528/146908171-fb025a63-1346-4542-96e4-808a19ac9e88.png)
 
-</br>
 
 
 
-
+<br />
+<br />
 <img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" />
  
  
