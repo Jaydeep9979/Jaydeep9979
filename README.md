@@ -23,7 +23,7 @@ Hi, I'm Jaydeep 😉, Avid Coder 👨🏻‍💻 from India. Currently, I have w
 <br>
 <br />
 <br />
-![image](https://user-images.githubusercontent.com/53243528/146908171-fb025a63-1346-4542-96e4-808a19ac9e88.png)
+![image](![image](https://user-images.githubusercontent.com/53243528/230726579-0fe1e468-3334-458a-98be-0a9e449b975f.png))
 
 
 
