@@ -19,7 +19,7 @@
 <br />
 <br />
 
-Hi, I'm Jaydeep 😉, Avid Coder 👨🏻‍💻 from India. Currently, I'm working as SDE  at Crest Data Systems. I have more than 8 months of full time experience of working with ReactJS, Python, FAST API. 
+Hi, I'm Jaydeep 😉, Avid Coder 👨🏻‍💻 from India. Currently, I have worked with companies like Amazon &  Crest Data Systems. I have 2 years of full time experience of working with ReactJS,Redux, JavaScript, MongoDb,HTML CSS, BootStrap. 
 <br>
 <br />
 <br />
@@ -37,16 +37,11 @@ Hi, I'm Jaydeep 😉, Avid Coder 👨🏻‍💻 from India. Currently, I'm work
 
   **Current Status Quo**
  <br />
-- 🌱 I’m currently learning Backend Development at High scale.
-- 🤔 I'm having Robust Conceptual understanding and Experience with Data Structure & Algorithms with JAVA and Object Oriented Programming with JAVA.
-- 🔭 Good Problem solving and analytical Skills.
-- 💼 I’m Currently working as SDE at Crest Data Systems Pvt. Ltd.
-- 💬 Ask me about anything, I would like to answer.
-- 📫 Please email via jaydeep9979@gmail.com to reach me.
-- 👀 See my [Resume](https://drive.google.com/file/d/1zITkVcY3Zt_4qM6PZ_daqzgZYEPeQGGO/view?usp=sharing) to get more info.
+I am a seasoned web developer with a wealth of experience in both corporate and freelance environments. With a strong foundation in technologies such as React, Redux Toolkit, JavaScript, React Native, TypeScript, HTML, CSS, and Bootstrap, I have built numerous websites from the ground up. From working with clients to understand their needs to delivering fully functional websites with high quality and great performance, I have a proven track record of delivering outstanding results. Having worked with top companies such as Amazon and Crest Data Systems, I bring a wealth of expertise to every project I undertake. With an eye for detail and a focus on end-to-end testing, I ensure that every website I build meets the highest standards of quality and performance. I have also honed my skills by solving over 1000 coding problems on platforms such as LeetCode, HackerRank, and PepCoding, demonstrating my commitment to staying up-to-date with the latest industry trends and best practices. Whether you are looking to build a new website from scratch or improve the performance of an existing one, I have the skills and experience to deliver exceptional results. With a passion for excellence and a commitment to delivering on-time, on-budget, and on-spec, I am confident that I can help you achieve your goals. So why not get in touch today to see how I can help you take your website to the next level?
+
 </br>
 </br>
 
- 
+<!--  
 <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="40"></br>
-![LovelyBuggies's github stats](https://github-readme-stats.vercel.app/api?username=jaydeep9979&show_icons=true&hide_border=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&align=center)
+![LovelyBuggies's github stats](https://github-readme-stats.vercel.app/api?username=jaydeep9979&show_icons=true&hide_border=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&align=center) -->
